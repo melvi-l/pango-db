@@ -1,6 +1,10 @@
 # PangoDB
 
-Projet d'entretien embauche Appartoo.
+That was what a startup ask me to do for an internship interview.
+
+Some company have a 6 month turn over of underpaid unqualify developer pressured by business target and ask you to do 6h full stack project with UI mockup, just to ask you to spend 3 more hour live coding in front of totally clueless CEO asking you to implement a week worth of work. Be safe kid.  
+
+The company name is apartoo, glad it did not work out I end up working for a spatial project.
 
 ## Setup
 
@@ -12,7 +16,7 @@ cd ./frontend
 ng serve
 ```
 
-## Enoncé
+## Wording
 L'objectif est de créer un mini carnet d'adresse pour "Pangolin" sur Express.js (sous forme d'API) avec un front sur angular &  DB Mongo de préférence. 
 - (Inscription/Connexion/Déconnexion) du "Pangolin" par login/mot de passe 
 - (Afficher/Modifier) son rôle (Guerrier, Alchimiste, Sorcier, Espions, Enchanteur)
